@@ -1,0 +1,2 @@
+To execute Multifocus Image Fusion based on Curvelet Transform, Wavelet Toolbox is necessary.
+If there is no Wavelet Toolbox in your MATLAB version, go to add-ons, search for Wavelet Toolbox and install it.
